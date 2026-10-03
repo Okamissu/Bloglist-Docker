@@ -1,4 +1,4 @@
 # Bloglist-Docker
 
-Ex. 23 - My containerized prod env:
+Ex. 22 - My containerized dev env:
 https://github.com/Okamissu/Bloglist-Docker
